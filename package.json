@@ -1,6 +1,6 @@
 {
   "name": "mongodb-transaction-daemon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MongoDB transactions helper",
   "main": "index.js",
   "dependencies": {
