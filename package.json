@@ -4,7 +4,7 @@
   "description": "MongoDB transactions helper",
   "main": "index.js",
   "dependencies": {
-    "@seangenabe/mutex": "^1.0.0",
+    "@seangenabe/mutex": "^1.0.2",
     "p-map": "^1.2.0"
   },
   "devDependencies": {
